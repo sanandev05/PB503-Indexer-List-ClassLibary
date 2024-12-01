@@ -1,0 +1,11 @@
+C:\Users\phili\source\repos\HelperLibary\bin\Debug\net8.0\HelperLibary.deps.json
+C:\Users\phili\source\repos\HelperLibary\bin\Debug\net8.0\HelperLibary.dll
+C:\Users\phili\source\repos\HelperLibary\bin\Debug\net8.0\HelperLibary.pdb
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.AssemblyInfoInputs.cache
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.AssemblyInfo.cs
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.dll
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\refint\HelperLibary.dll
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\HelperLibary.pdb
+C:\Users\phili\source\repos\HelperLibary\obj\Debug\net8.0\ref\HelperLibary.dll
